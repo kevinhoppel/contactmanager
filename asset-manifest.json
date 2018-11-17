@@ -1,0 +1,15 @@
+{
+  "main.css": "/contactmanager/static/css/main.5bf5a46e.chunk.css",
+  "main.js": "/contactmanager/static/js/main.f47f7ee9.chunk.js",
+  "main.js.map": "/contactmanager/static/js/main.f47f7ee9.chunk.js.map",
+  "static/css/1.1d11ad5b.chunk.css": "/contactmanager/static/css/1.1d11ad5b.chunk.css",
+  "static/js/1.3a7c696f.chunk.js": "/contactmanager/static/js/1.3a7c696f.chunk.js",
+  "static/js/1.3a7c696f.chunk.js.map": "/contactmanager/static/js/1.3a7c696f.chunk.js.map",
+  "runtime~main.js": "/contactmanager/static/js/runtime~main.72aa8290.js",
+  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.72aa8290.js.map",
+  "static/css/main.5bf5a46e.chunk.css.map": "/contactmanager/static/css/main.5bf5a46e.chunk.css.map",
+  "static/css/1.1d11ad5b.chunk.css.map": "/contactmanager/static/css/1.1d11ad5b.chunk.css.map",
+  "index.html": "/contactmanager/index.html",
+  "precache-manifest.c798266441ab9edb4f85d1e81d7abce4.js": "/contactmanager/precache-manifest.c798266441ab9edb4f85d1e81d7abce4.js",
+  "service-worker.js": "/contactmanager/service-worker.js"
+}
