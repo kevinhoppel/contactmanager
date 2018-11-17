@@ -8,7 +8,6 @@ const reducer = (state, action) => {
     case 'DELETE_CONTACT':
       return {
         contacts: state.contacts.filter(
-          ...state,
           contact => contact.id !== action.payload
         )
       };
