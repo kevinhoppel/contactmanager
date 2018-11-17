@@ -14,7 +14,7 @@ class AddContact extends Component {
   onSubmit = (dispatch, e) => {
     e.preventDefault();
 
-    const { name, email, phone, errors } = this.state;
+    const { name, email, phone } = this.state;
 
     // Check for Errors
     if (name === '') {
